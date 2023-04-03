@@ -1,0 +1,121 @@
+body{/* Rectangle 1 */
+
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #EFE268;}
+body1{/* Rectangle 3 */
+
+
+position: absolute;
+width: 285px;
+height: 820px;
+left: 180px;
+top: 121px;
+
+background: #1F91AA;}
+h1{/* Ana Julia Gregozewski */
+
+
+position: absolute;
+width: 755px;
+height: 245px;
+left: 569px;
+top: 85px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;}
+h2{
+position: absolute;
+width: 680px;
+height: 505px;
+left: 578px;
+top: 393px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;
+
+}
+h3{position: absolute;
+width: 680px;
+height: 505px;
+left: 578px;
+top: 450px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;
+}
+h4{position: absolute;
+width: 680px;
+height: 505px;
+left: 578px;
+top: 500px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;}
+h5{position: absolute;
+width: 680px;
+height: 505px;
+left: 578px;
+top: 550px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+
+color: #000000;}
+h6{/* E S T U D A N T E */
+
+
+position: absolute;
+width: 39px;
+height: 517px;
+left: 125px;
+top: 130px;
+
+font-family: 'Happy Monkey';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+}
+header2{/* Rectangle 4 */
+
+
+position: absolute;
+width: 243px;
+height: 233px;
+left: 203px;
+top: 45px;
+
+background: url(foto.jpg);}
